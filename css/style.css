@@ -1,0 +1,32 @@
+
+body {
+	color: #FFF;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+#display {
+	width: 295px;
+	height: 70px;
+	background-color: #212121;
+	border: 1px solid #E5E4E3;
+}
+
+button {
+		color: #FFF;
+		font-size: 20px;
+		background-color: #403F3F;
+		width: 70px;
+		height: 70px;
+		padding: 0px 0px 0px 0px;
+		border: 1px solid #E5E4E3;
+}
+
+#number7, #number8, #number9, #number4, #number5, #number6, #number1, #number2, #number3, #decimal, #number0, #equals {
+	
+	background-color: #595958;
+}
+
+#clear {
+	width: 222px;
+}
